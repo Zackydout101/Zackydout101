@@ -6,7 +6,7 @@ I'm a student at the University of Ottawa and used to work Software Developer at
 
 - 🌱 I’m currently learning **React**, **Rust** and I'm always looking to learn new things!
 
-- 🤝 I’m looking for **Summer 2023 internship opportunities**
+- 🤝 I’m looking for **Winter 2023 internship opportunities**
 
 - 👨‍💻 All of my projects are available are open source.
 
