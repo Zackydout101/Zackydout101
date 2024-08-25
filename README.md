@@ -2,11 +2,11 @@
 
 I'm a student at the University of Ottawa and used to work Software Developer at SpyderForce AIO.
 
-- 🔭 I’m currently working at [uOttawa Rocketry]([https://hackthehill.com](https://uorocketry.ca/))
+- 🔭 Previously worked at BlackBerry, Rogers, x2 startups.
 
-- 🌱 I’m currently learning **React**, **Rust** and I'm always looking to learn new things!
+- 🌱 I'm currently working on a real-life **Rocket League project**, which will be available soon at a **Toys "R" Us** near you!
 
-- 🤝 I’m looking for **Winter 2023 internship opportunities**
+- 🤝 I’m looking for **2024 internship opportunities**
 
 - 👨‍💻 All of my projects are available are open source.
 
