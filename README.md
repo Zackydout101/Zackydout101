@@ -1,12 +1,12 @@
 # Hello 👋
 
-I'm a student at the University of Ottawa and used to work Software Developer at SpyderForce AIO.
+I'm a student at the University of Ottawa and @Shopify.
 
 - 🔭 Previously worked at BlackBerry, Rogers, x2 startups.
 
 - 🌱 I'm currently working on a real-life **Rocket League project**, which will be available soon at a **Toys "R" Us** near you!
 
-- 🤝 I’m looking for **2024 internship opportunities**
+- 🤝 I’m looking for **2026 internship opportunities**
 
 - 👨‍💻 All of my projects are available are open source.
 
